@@ -1,0 +1,4 @@
+docker-compose.yml
+.idea/
+db.sqlite3
+database/
